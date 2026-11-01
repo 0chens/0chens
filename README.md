@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! My name is Shirley and I'm exploring my path in computer science!
 
 <!--
 **0chens/0chens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
