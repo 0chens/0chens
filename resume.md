@@ -2,6 +2,7 @@ Shirley Chen
 Boston, MA | [shirleychenlian@gmail.com] | [5854103020] | [[LinkedIn](https://www.linkedin.com/in/shirley-chen-cs/)]
 Education
 Northeastern University — B.S. in Computer Science and Business Administration
+Expected Graduation Date: 2030
 Honors Program | 2026–Present
 
 Experience
